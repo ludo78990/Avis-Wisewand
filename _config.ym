@@ -1,0 +1,41 @@
+title: "✅ Avis sur Wisewand.AI : Surtout ne souscrivez pas ❌ Lire cet article "
+description: "Avis sans détour sur Wisewand.AI 🔥 souscrir ou non, est'ce le bon outil de rédaction pour mon propre usage, est'ce pas trop cher !
+tagline: "🚀"
+author: "Léo Bourdin - https://www.lemonde.fr/"
+
+# SEO Meta Tags
+lang: "fr"
+logo: "https://www.elockstore.com/img/elockstore-logo-1675524908.jpg"
+
+# Désactiver la concaténation du titre avec la description
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      seo:
+        title: "✅ Suport Tablette d'Entreprise sur ElockStore.com"
+        description: "Découvrez tous les supports tablettes pour professionnels et entreprise 🔥 sur ElockStore.com | Livraison Gratuite en 48h Chrono !"
+
+# Jekyll SEO Plugin
+plugins:
+  - jekyll-seo-tag
+
+# Réseaux sociaux
+social:
+  name: "elockstore"
+  links:
+    - "https://www.elockstore.com/"
+    - "https://www.elockstore.com/299-support-tablette"
+
+# Theme du site (ex: Cayman)
+theme: jekyll-theme-cayman
+
+# Exclure les fichiers inutiles pour le SEO
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+force_rebuild: true
