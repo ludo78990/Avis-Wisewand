@@ -29,7 +29,7 @@ social:
     - "https://avisdejulie.fr"
 
 # Theme du site (ex: Cayman)
-theme: 
+theme: jekyll-theme-cayman
 
 # Exclure les fichiers inutiles pour le SEO
 exclude:
