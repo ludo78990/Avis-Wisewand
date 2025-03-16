@@ -1,5 +1,5 @@
-title: "✅ Avis sur Wisewand.AI : Surtout ne souscrivez pas ❌ Lire cet article "
-description: "Avis sans détour sur Wisewand.AI 🔥 souscrir ou non, est'ce le bon outil de rédaction pour mon propre usage, est'ce pas trop cher !
+title: "✅ Avis sur Wisewand.AI : Surtout ne souscrivez pas ❌ Lire cet article avant"
+description: "Avis sans détour sur Wisewand.AI 🔥 souscrir ou non ? Vraimeent fiable ? est'ce le bon outil de rédaction pour mon propre usage ? est'ce vraiment trop cher !
 tagline: "🚀"
 author: "Léo Bourdin - https://www.lemonde.fr/"
 
@@ -14,8 +14,8 @@ defaults:
       path: ""
     values:
       seo:
-        title: "✅ Suport Tablette d'Entreprise sur ElockStore.com"
-        description: "Découvrez tous les supports tablettes pour professionnels et entreprise 🔥 sur ElockStore.com | Livraison Gratuite en 48h Chrono !"
+        title: "✅ Avis sur Wisewand.AI : Surtout ne souscrivez pas ❌ Lire cet article "
+        description: "Avis sans détour sur Wisewand.AI 🔥 souscrir ou non, est'ce le bon outil de rédaction pour mon propre usage, est'ce pas trop cher !"
 
 # Jekyll SEO Plugin
 plugins:
