@@ -8,11 +8,8 @@
 <p>❌ Pas d&rsquo;essai gratuit<br />❌ Pas encore d&rsquo;int&eacute;gration de vid&eacute;os IA<br />❌ N&eacute;cessite quelques essais pour ma&icirc;triser les fonctionnalit&eacute;s avanc&eacute;es</p>
 
 <p><a class="gb-button gb-button-e5d84c36 gb-button-text" href="https://wisewand.ai/?fpr=ludovic64" target="_blank" rel="nofollow noopener noreferrer"> 🚀 B&eacute;n&eacute;ficiez de -10% &agrave; vie avec le code promo <strong>AVISDEJULIE</strong> </a></p>
-<center><a title="wisewand" href="https://wisewand.ai/?fpr=ludovic64">
-  <img src="https://ludo78990.github.io/Avis-Wisewand/wisewand.jpg" alt="wisewand" title="wisewand.ai" width=" " height=" " />
-  <img src="https://ludo78990.github.io/Avis-Wisewand/wisewand.jpg" alt="wisewand" width=" " height=" " />
-
-</a></center>
+<center><a title="wisewand" href="https://wisewand.ai/?fpr=ludovic64"><img src="https://ludo78990.github.io/Avis-Wisewand/wisewand.jpg" alt="wisewand" title="wisewand.ai" width="600" height=" " /></a></center>
+<center><img src="https://ludo78990.github.io/Avis-Wisewand/wisewand.jpg" alt="wisewand" width="600" height=" " /></center>
 <h2>Pourquoi Wisewand.ai se d&eacute;marque des autres outils IA ?</h2>
 
 
