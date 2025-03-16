@@ -5,7 +5,7 @@ author: "Léo Bourdin - https://www.lemonde.fr/"
 
 # SEO Meta Tags
 lang: "fr"
-logo: "https://www.elockstore.com/img/elockstore-logo-1675524908.jpg"
+logo: "https://ludo78990.github.io/Avis-Wisewand/logo_avisdejulie_2024_2.png"
 
 # Désactiver la concaténation du titre avec la description
 defaults:
@@ -23,13 +23,13 @@ plugins:
 
 # Réseaux sociaux
 social:
-  name: "elockstore"
+  name: "wisewand.ai"
   links:
-    - "https://www.elockstore.com/"
-    - "https://www.elockstore.com/299-support-tablette"
+    - "https://wisewand.ai/?fpr=ludovic64"
+    - "https://avisdejulie.fr"
 
 # Theme du site (ex: Cayman)
-theme: jekyll-theme-cayman
+theme: 
 
 # Exclure les fichiers inutiles pour le SEO
 exclude:
